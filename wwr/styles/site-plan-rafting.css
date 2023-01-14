@@ -5,10 +5,10 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #274472;
-  --secondary-color: #5885AF;
-  --accent1-color: #CD7F32;
-  --accent2-color: #6E260E;
+  --primary-color: #474a2c;
+  --secondary-color: #9BDEAC;
+  --accent1-color: #59A96A;
+  --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Kalam";
@@ -20,10 +20,10 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #FFFFFF; /* paragraph text on a colored background */ 
   --paragraph-background-color: #6E260E  ;
-  --nav-link-color: #274472;
-  --nav-background-color: #CD7F32;
+  --nav-link-color: #9BDEAC;
+  --nav-background-color: #474a2c;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #5885AF;
+  --nav-hover-background-color: #59A96A;
 }
 
 
