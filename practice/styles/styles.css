@@ -24,7 +24,8 @@ img {
 }
 
 div {
-    margin:0 auto;
+    display:flex;
+    justify-content: center;
 }
 
 ul {
@@ -48,8 +49,11 @@ p{
 
 footer {
     font-family: calibri;
-    margin:0 auto;
+    margin: 45px;
+    display: flex;
+    flex-direction: column;
 }
-span{
+
+span {
     text-align:center;
 }
