@@ -20,8 +20,11 @@ h4 {
 }
 
 img {
-    margin:0 auto;
     height:200px;
+}
+
+div {
+    margin:0 auto;
 }
 
 ul {
