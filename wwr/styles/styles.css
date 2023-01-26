@@ -61,8 +61,14 @@ main section {
     background-color:black
 }
 
+#background section {
+    width:50%;
+}
+
 .msg {
     background-color:#59A96A;
+    width:50%;
+    height:25em;
 }
 
 .msg h2 {
