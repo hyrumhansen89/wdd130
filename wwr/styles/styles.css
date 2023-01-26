@@ -15,6 +15,8 @@ header {
 }
 nav a {
     text-align: center;
+    color:#474a2c;
+    text-decoration:none;
 }
 
 nav a:hover {
