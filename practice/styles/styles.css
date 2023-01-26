@@ -17,6 +17,10 @@ h4 {
     color:white;
 }
 
+img {
+    height:200px;
+}
+
 li {
     list-style-type:none;
     font-family: calibri;
@@ -24,5 +28,5 @@ li {
 
 footer {
     font-family: calibri;
-    
+
 }
