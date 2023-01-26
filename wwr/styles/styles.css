@@ -65,6 +65,22 @@ main section {
     background-color:#59A96A;
 }
 
+.msg h2 {
+    color:white;
+}
+
+.msg p {
+    color:white;
+}
+
 footer {
     background-color:#59A96A
+}
+
+footer a {
+    color:white;
+}
+
+footer a:hover {
+    color:black;
 }
