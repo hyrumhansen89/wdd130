@@ -56,8 +56,8 @@ main section {
 }
 
 #background {
-    height:100px;
-    width:100px;
+    height:400px;
+    width:100%;
     background-color:black
 }
 
