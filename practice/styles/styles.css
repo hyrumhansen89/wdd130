@@ -9,11 +9,13 @@ h1 {
 }
 
 h3 {
+    text-align: center;
     color:white;
     font-family: calibri;
 }
 
 h4 {
+    text-align:center;
     color:white;
 }
 
@@ -24,6 +26,13 @@ img {
 li {
     list-style-type:none;
     font-family: calibri;
+    font-weight:800;
+}
+
+p{
+    text-align:center;
+    font-size:2em;
+    color:white
 }
 
 footer {
