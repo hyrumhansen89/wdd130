@@ -20,7 +20,13 @@ h4 {
 }
 
 img {
+    margin:0 auto;
     height:200px;
+}
+
+ul {
+    display:flex;
+    justify-content:center;
 }
 
 li {
@@ -30,6 +36,7 @@ li {
 }
 
 p{
+    width:20%;
     text-align:center;
     font-size:2em;
     color:white
