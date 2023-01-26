@@ -90,3 +90,7 @@ footer a {
 footer a:hover {
     color:black;
 }
+
+footer p {
+    font-size:1.2em;
+}
