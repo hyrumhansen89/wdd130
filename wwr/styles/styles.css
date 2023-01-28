@@ -129,7 +129,6 @@ main section {
 }
 
 .msg {
-    position:absolute;
     background-color:#59A96A;
     width:50%;
     height:20em;
