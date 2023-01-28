@@ -68,8 +68,8 @@ nav a:hover {
 }
 
 h4 {
-    font-size:2em;
     color:white;
+    font-size:2em;
 }
 
 #hero-img {
@@ -145,11 +145,13 @@ main section {
 }
 
 footer {
-    background-color:#59A96A
+    background-color:#59A96A;
+    color:#474a2c;
 }
 
 footer a {
     color:white;
+    text-decoration:none;
 }
 
 footer a:hover {
@@ -158,10 +160,6 @@ footer a:hover {
 
 footer p {
     font-size:1.2em;
-}
-
-footer p a {
-    text-decoration:none;
 }
 
 footer p a:hover {
