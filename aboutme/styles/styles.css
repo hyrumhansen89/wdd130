@@ -8,6 +8,10 @@
     color: steelblue;
 }
 
+body {
+    margin:0;
+}
+
 header {
     margin:50px 0;
 }
