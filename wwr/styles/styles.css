@@ -130,6 +130,11 @@ main section {
 
 .card-img {
     max-height:250px;
+    border: 10px solid black;
+}
+
+main section img {
+    box-sizing: border-box;
 }
 
 .icon {
