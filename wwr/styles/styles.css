@@ -68,7 +68,7 @@ nav a:hover {
 
 .home-title {
     font-family:"Kalam";
-    font-size:3em;
+    font-size:2em;
     color:white;
 }
 
@@ -151,6 +151,7 @@ main section {
 .msg p {
     font-family:"Oswald";
     color:white;
+    font-size:.8em;
 }
 
 footer {
