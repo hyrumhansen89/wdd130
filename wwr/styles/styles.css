@@ -71,6 +71,7 @@ nav a:hover {
 }
 
 h4 {
+    font-family:"Oswald";
     color:white;
     font-size:2em;
 }
@@ -96,6 +97,7 @@ h4 {
 }
 
 main {
+    font-family:"Oswald";
     display:flex;
     justify-content:space-evenly;
     flex-wrap:wrap;
@@ -144,6 +146,7 @@ main section {
 }
 
 .msg p {
+    font-family:"Oswald";
     color:white;
 }
 
