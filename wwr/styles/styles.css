@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Oswald&display=swap');
+
 body {
     background-color:#474a2c;
     padding:0;
@@ -63,6 +65,7 @@ nav a:hover {
 }
 
 .home-title {
+    font-family:"Kalam";
     font-size:3em;
     color:white;
 }
@@ -136,6 +139,7 @@ main section {
 }
 
 .msg h2 {
+    font-family:"Kalam";
     color:white;
 }
 
