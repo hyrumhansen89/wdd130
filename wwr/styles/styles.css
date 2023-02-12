@@ -140,7 +140,8 @@ main section {
     background-color:#59A96A;
     width:50%;
     height:20em;
-    transform:translate(700px, -300px)
+    transform:translate(700px, -300px);
+    line-height:1.5em;
 }
 
 .msg h2 {
