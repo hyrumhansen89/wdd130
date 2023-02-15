@@ -43,7 +43,7 @@
   height: 100px; 
   background-color: red; 
 } 
-.green2 { 
+.green2::before { 
   width: 200px; 
   height: 200px; 
   background-color: green; 
