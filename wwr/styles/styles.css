@@ -153,7 +153,8 @@ main section {
 .card-img, .mountains {
     width: 100%;
 }
-      
+  
+
 
 main section img {
     box-sizing: border-box;
@@ -201,6 +202,9 @@ main section img {
 }
 
 footer {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
     background-color:#59A96A;
     color:#474a2c;
     padding:25px 50px;
