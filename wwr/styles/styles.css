@@ -125,9 +125,13 @@ h4 {
 
 main {
     font-family:"Oswald";
-    display:flex;
     justify-content:space-evenly;
     flex-wrap:wrap;
+}
+
+.home-grid {
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 main section {
