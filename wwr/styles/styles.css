@@ -150,6 +150,11 @@ main section {
     border: 10px solid black;
 }
 
+.card-img, .mountains {
+    width: 100%;
+}
+      
+
 main section img {
     box-sizing: border-box;
 }
