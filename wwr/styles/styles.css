@@ -161,9 +161,9 @@ main section {
     grid-row:2/3;
 }
 
-#background {
-    grid-column:1/11;
-    grid-row:4/9;
+.mountains {
+    grid-column:2/7;
+    grid-row:5/8;
 }
 
 .card-img {
@@ -175,8 +175,6 @@ main section {
     width: 100%;
 }
   
-
-
 main section img {
     box-sizing: border-box;
 }
@@ -189,6 +187,8 @@ main section img {
 #background {
     height:725px;
     width:100%;
+    grid-column:1/11;
+    grid-row:4/9;
     background-color:black
 }
 
@@ -208,6 +208,8 @@ main section img {
     transform:translate(700px, -300px);
     line-height:1.5em;
     padding:35px;
+    grid-column:6/10;
+    grid-row:6/7;
 }
 
 .msg h2 {
